@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate frontend/MERN stack developer from India</h3>
-<img align"right" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F06%2F01%2F17%2F18%2F360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg&tbnid=s6wSpS44H7ORgM&vet=10CAIQxiAoAGoXChMIyKGch9HOgwMVAAAAAB0AAAAAEAY..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&docid=LfiF16KcHDAXgM&w=540&h=360&itg=1&q=coding%20images%20animated%20full%20hd&ved=0CAIQxiAoAGoXChMIyKGch9HOgwMVAAAAAB0AAAAAEAY">
+<img align"right" width="400" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-coding-professional-hoodie_117038-5487.jpg?w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaraankit&label=Profile%20views&color=0e75b6&style=flat" alt="kumaraankit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@ankit_fse" target="blank"><img src="https://img.shields.io/twitter/follow/@ankit_fse?logo=twitter&style=for-the-badge" alt="@ankit_fse" /></a> </p>
