@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **mini projects/large projects**
 
-- 🌱 I’m currently learning **system design**
+- 🌱 Designing scalable solutions by using the concepts of **system design**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **MERN stack, backend development**
+- 💬 Ask me about **Full stack, backend development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
